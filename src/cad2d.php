@@ -288,7 +288,7 @@ class CAD2D
     public function drawTTFText($info)
     {
         $default = array(
-            "font" => '../../ttf/mm3.ttf',
+            "font" => '../ttf/mm3.ttf',
             "size" => 20,
             "scale" => 1.0,
             "ro" => 0
