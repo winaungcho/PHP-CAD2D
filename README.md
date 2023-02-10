@@ -28,22 +28,27 @@ echo "<img src='images/$fname?u=".time()."'/>";
 
 ## Examples
 ### Draw Line
+[Line drawing example code](example/cadline.php)
 ![PHP-CAD2D](images/cadline.png)
 
 ### Draw Polylines And Filling Hatch
+[Poly Line and Hatch drawing example](example/cadpoly.php)
 ![PHP-CAD2D](images/cadpoly.png)
 
 ### Draw Ellipse And Filling Hatch
+[Ellipse drawing example](example/cad2dellipse.php)
 ![PHP-CAD2D](images/cad2dellipse.png)
 
 ### Draw Dimension
+[Dimension drawing example](example/cad2ddim.php)
 ![PHP-CAD2D](images/cad2ddim.png)
 
 ### Draw Text
+[Text drawing example](example/cad2dtext.php)
 ![PHP-CAD2D](images/cad2dtext.png)
 
 ### Draw Rectangle And Points
-### Draw Dimension
+[Rectangle and Point drawing example](example/cad2drectpt.php)
 ![PHP-CAD2D](images/cad2drectpt.png)
 
 ## Contact
