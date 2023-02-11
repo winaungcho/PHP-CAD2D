@@ -4,7 +4,7 @@ CAD2D is a class to create an engineering drawing.
 Entity data are stored in the associative array.
 Class draw the drawing on image after pre-defined entity data.
 
-![PHP-CAD2D](images/cadpoly.png)
+![PHP-CAD2D](images/cad2darray.png)
 
 ## Usage
 
