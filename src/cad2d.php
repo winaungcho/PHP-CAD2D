@@ -650,17 +650,17 @@ class CAD2D
     protected function imgArrowHead($tailX, $tailY, $tipX, $tipY, $size = 50)
     {
         $ang = deg2rad(25);
-        $arrowLength = $size; //can be adjusted
+        $arrowLength = $size;
         $dx = $tipX - $tailX;
         $dy = $tipY - $tailY;
 
         $theta = atan2($dy, $dx);
 
-        $phi = $ang; //35 angle, can be adjusted
+        $phi = $ang; 
         $x = $tipX - $arrowLength * cos($theta + $phi);
         $y = $tipY - $arrowLength * sin($theta + $phi);
 
-        $phi2 = - $ang; //-35 angle, can be adjusted
+        $phi2 = - $ang; 
         $x2 = $tipX - $arrowLength * cos($theta + $phi2);
         $y2 = $tipY - $arrowLength * sin($theta + $phi2);
 
