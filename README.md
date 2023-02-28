@@ -4,7 +4,7 @@ CAD2D is a class to create an engineering drawing.
 Entity data are stored in the associative array.
 Class draw the drawing on image after pre-defined entity data.
 
-![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/images/cad2darray.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cad2darray.png)
 
 ## Usage
 
@@ -29,27 +29,27 @@ echo "<img src='images/$fname?u=".time()."'/>";
 ## Examples
 ### Draw Line
 [Line drawing example code](example/cadline.php)
-![PHP-CAD2D](images/cadline.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cadline.png)
 
 ### Draw Polylines And Filling Hatch
 [Poly Line and Hatch drawing example](example/cadpoly.php)
-![PHP-CAD2D](images/cadpoly.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cadpoly.png)
 
 ### Draw Ellipse And Filling Hatch
 [Ellipse drawing example](example/cad2dellipse.php)
-![PHP-CAD2D](images/cad2dellipse.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cad2dellipse.png)
 
 ### Draw Dimension
 [Dimension drawing example](example/cad2ddim.php)
-![PHP-CAD2D](images/cad2ddim.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cad2ddim.png)
 
 ### Draw Text
 [Text drawing example](example/cad2dtext.php)
-![PHP-CAD2D](images/cad2dtext.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cad2dtext.png)
 
 ### Draw Rectangle And Points
 [Rectangle and Point drawing example](example/cad2drectpt.php)
-![PHP-CAD2D](images/cad2drectpt.png)
+![PHP-CAD2D](https://raw.githubusercontent.com/winaungcho/PHP-CAD2D/main/images/cad2drectpt.png)
 
 ## Contact
 Contact me for comercial use via mail winaungcho@gmail.com.
